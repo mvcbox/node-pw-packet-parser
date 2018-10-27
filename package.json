@@ -1,0 +1,27 @@
+{
+  "name": "pw-packet-parser",
+  "version": "1.0.0",
+  "description": "PW packet parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvcbox/node-pw-packet-parser.git"
+  },
+  "keywords": [
+    "PW",
+    "packet",
+    "parser"
+  ],
+  "author": "mvcbox.org@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvcbox/node-pw-packet-parser/issues"
+  },
+  "homepage": "https://github.com/mvcbox/node-pw-packet-parser#readme",
+  "dependencies": {
+    "pw-buffer": "^1.0.1"
+  }
+}
